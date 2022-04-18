@@ -8,4 +8,4 @@
 
 `git status`
 
-[Link](www.google.com.tr)
+[Link](https://www.google.com/)
